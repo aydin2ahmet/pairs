@@ -1,0 +1,15 @@
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\bin\Debug\net6.0\Pairs.exe
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\bin\Debug\net6.0\Pairs.deps.json
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\bin\Debug\net6.0\Pairs.runtimeconfig.json
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\bin\Debug\net6.0\Pairs.dll
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\bin\Debug\net6.0\Pairs.pdb
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.csproj.AssemblyReference.cache
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.AssemblyInfoInputs.cache
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.AssemblyInfo.cs
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.csproj.CoreCompileInputs.cache
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.dll
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\refint\Pairs.dll
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.pdb
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\Pairs.genruntimeconfig.cache
+C:\Users\acatg\source\repos\Questions\Pairs\Pairs\obj\Debug\net6.0\ref\Pairs.dll
